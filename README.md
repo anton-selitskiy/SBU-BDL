@@ -41,4 +41,6 @@
 [__week13__](./Week13/) __Optimal Transport and Bridge Matching__
 - Neural Optimal Transport and Bridge Matching  
 
+[__Final Project__](Final_Project.md)
+
 [__GPU guide__](Jetstream2_GPU_Guide.md)
