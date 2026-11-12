@@ -56,7 +56,7 @@ Four deliverables, each building on the last.
 | Due | Deliverable | What it contains |
 | --- | --- | --- |
 | Nov 23, 2026 | Proposal (1 page) | Track, question, method, data, baseline, metric, compute estimate, and what a negative result would look like |
-| Dec 1, 2026 | Checkpoint (10 min meeting) | A first result, even a small one; any change of plan |
+| Nov 30, 2026 | Checkpoint (10 min meeting) | A first result, even a small one; any change of plan |
 | Dec 7, 2026 | Presentation (15 min + questions) | In person or zoom |
 | Dec 8, 2026 | Report | 2-3 pages, IEEE conference format |
 
