@@ -74,4 +74,4 @@ The project is graded out of 30 points. A clean negative result, honestly analyz
 | **Total** | **30** |  |
 
 
-- **Office hours.** Write me with any questions, ideas apper in conversations.
+- **Office hours.** Write me with any questions, ideas appear in conversations.
